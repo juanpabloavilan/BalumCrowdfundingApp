@@ -1,0 +1,13 @@
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\dto\Emprendedor.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\ejb\ServicioDonar.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\interfaces\IServicioDonar.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\interfaces\IServicioPerfilEmprendedor.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\dto\Donacion.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\ejb\ServicioCRUDProyecto.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\ejb\ServicioPerfilEmprendedor.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\persistencia\AbstractFacade.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\dto\Donante.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\interfaces\IServicioCRUDProyecto.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\interfaces\IServicioPerfilDonante.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\dto\Proyecto.java
+D:\Talleres Arquitectura\balum.backend\src\main\java\com\mycompany\balum\logica\ejb\ServicioPerfilDonante.java
