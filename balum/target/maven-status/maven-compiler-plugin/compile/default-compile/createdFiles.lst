@@ -1,0 +1,4 @@
+com\mycompany\balum\servicios\EmprendedorService.class
+com\mycompany\balum\servicios\DonanteService.class
+com\mycompany\balum\servicios\ProyectoService.class
+org\netbeans\rest\application\config\ApplicationConfig.class
